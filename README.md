@@ -17,7 +17,7 @@ This is a basic personal portfolio website built using **only HTML** (no CSS or 
 
 ## 🌐 Live Site
 
-👉 [https://yourusername.github.io/portfolio](https://yourusername.github.io/portfolio)
+👉 [https://sans-algo.github.io/HTML-Portfolio-/](https://sans-algo.github.io/HTML-Portfolio-/)
 
 ## 📫 Connect
 
