@@ -1,2 +1,25 @@
-# HTML-Portfolio-
-A simple personal portfolio website made using only HTML.
+# Sanskar Rajendra Pawar - Portfolio
+
+This is a basic personal portfolio website built using **only HTML** (no CSS or JavaScript).
+
+## 📌 Features
+
+- Navigation bar
+- Header with welcome message
+- Image and photography showcase
+- Social media links
+- Contact form
+- Simple structure for GitHub Pages hosting
+
+## 🛠 Tech Stack
+
+- HTML5 only
+
+## 🌐 Live Site
+
+👉 [https://yourusername.github.io/portfolio](https://yourusername.github.io/portfolio)
+
+## 📫 Connect
+
+- LinkedIn: [linkedin.com/in/sanskar-pawar](https://www.linkedin.com/in/sanskar-pawar)
+- GitHub: [your GitHub profile URL]
