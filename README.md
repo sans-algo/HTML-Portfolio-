@@ -21,5 +21,5 @@ This is a basic personal portfolio website built using **only HTML** (no CSS or 
 
 ## 📫 Connect
 
-- LinkedIn: [linkedin.com/in/sanskar-pawar](https://www.linkedin.com/in/sanskar-pawar)
-- GitHub: [your GitHub profile URL]
+- LinkedIn: [https://www.linkedin.com/in/sanskar-pawar](https://www.linkedin.com/in/sanskar-pawar)
+- GitHub: [https://github.com/sans-algo](https://github.com/sans-algo)
